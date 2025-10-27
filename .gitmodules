@@ -1,0 +1,3 @@
+[submodule "themes/mavili"]
+	path = themes/mavili
+	url = https://github.com/mtnzorlu/mavili.git
