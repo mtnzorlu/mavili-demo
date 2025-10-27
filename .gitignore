@@ -1,0 +1,18 @@
+# Hugo build klasörleri
+/public/
+/resources/_gen/
+
+# İşletim sistemi dosyaları
+.DS_Store
+Thumbs.db
+
+# IDE dosyaları
+.vscode/
+.idea/
+
+# Geçici dosyalar
+*.bak
+*.swp
+
+# Netlify veya build çıktıları
+.netlify/
